@@ -1,5 +1,5 @@
 # OpenAI-Codex
-
+![](codex.png)
 > Codex CLI is an experimental project under active development. It is not yet stable, may contain bugs, incomplete features, or undergo breaking changes. We're building it in the open with the community and welcome:
 
 This is an opionated install and setup for Codex from OpenAI: https://github.com/openai/codex feel free to choose your own adventure.
