@@ -4,6 +4,8 @@
 
 This is an opionated install and setup for Codex from OpenAI: https://github.com/openai/codex feel free to choose your own adventure.
 
+See this getting started guide: https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started
+
 ---
 
 # PNPM Global Installation Setup
